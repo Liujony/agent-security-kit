@@ -198,4 +198,14 @@ Probe CLI help: `python3 probe.py --help`.
 └── LICENSE
 ```
 
+## Related
+
+`agent-security-kit` is the audit half of one engineering line: making AI systems checkable —
+what an agent does with its tools, and whether what it says can be verified.
+
+- **RAG citation checking, live demo:** <https://demo.starlightness.tech> — upload a PDF, ask a
+  question, and watch every citation get validated against the pages actually retrieved.
+- **Portfolio and writing:** <https://me.starlightness.tech>
+- **Contact:** yinaaaliu@outlook.com
+
 MIT licensed.
